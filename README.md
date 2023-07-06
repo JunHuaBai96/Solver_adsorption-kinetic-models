@@ -5,6 +5,7 @@ The adsorption kinetic models reviewed in this paper are summarized as follows.
 ![微信图片_20230706112751](https://github.com/JunHuaBai96/Solver_adsorption-kinetic-models/assets/102909786/7683d1ef-8cb3-4381-becd-9663e29ce31b)
 
 A convenient UI for solving the kinetic models was developed based on Excel (see in Supplementary Information). The Runge-Kutta method is employed to solve the differential equations (such as the MO model and the Langmuir kinetics model), and the solver add-in is applied for the calculation of the model parameters. The statistical parameters (R2, adjR2, χ2, SSE, MSE, and HYBRID) are calculated based on the following formula.
+
 ![微信图片_20230706112943](https://github.com/JunHuaBai96/Solver_adsorption-kinetic-models/assets/102909786/a8ae3fb2-6dbf-4dfe-aff2-23b474024b62)
 
 Readers can download the UI attached in Supplementary Information and input their experimental data, then the fitting results will show in the sheet of Excel.
